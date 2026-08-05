@@ -9,7 +9,7 @@ export const coursesData = [
     Description: "هذا الكورس يقدم لك أساسيات البرمجة من منظور علمي، مع التركيز على المبادئ الجوهرية بدلاً من التكنولوجيا نفسها. وبهذا، ستكتسب قاعدة صلبة تمكنك من إتقان أي لغة أو تقنية برمجية لاحقاً.",
       content: [
     {
-      title: "Programming Fundamentals using C++",
+      title: "Programming Fundamentals using C++ programming",
       length: "36 ساعة",
       topics: [
         "Variables & Data Types",
