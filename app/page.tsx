@@ -23,12 +23,9 @@ export default function Home() {
     "لو نفسك تدخل مجال البرمجة ومش عارف تبدأ منين ... متقلقش خالص احنا معاك خطوة بخطوة مع بعض"
   );
 
-  const checklist = t(
-    ["programming basics ✔", "web basics ✔", "practical learning ✔"],
-    ["أساسيات البرمجة ✔", "أساسيات الويب ✔", "تطبيق عملي ✔"]
-  );
+  const checklist = ["أساسيات البرمجة ✔", "أساسيات الويب ✔", "تطبيق عملي ✔"];
 
-  const skills = t(["C++", "Vue", "Laravel"], ["C++", "Vue", "Laravel"]);
+  const skills = ["C++", "React", "Laravel"];
 
   return (
     <AppLayout showFooter={true}>
